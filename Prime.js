@@ -6,5 +6,5 @@ if ((num%1==0) && (num%num==0))
 }
 elsesdfdfs
 {
-    console.log("This is not a Prime Number -" , num);
+    console.log("This is not a Prime Number -" dfg, num);
 }
